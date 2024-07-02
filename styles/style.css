@@ -306,7 +306,7 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: 800;
+  font-weight: bold;
   line-height: 52px;
 }
 
@@ -321,10 +321,8 @@
 
 .step {
   width: 220px;
-  flex-direction: row;
-  justify-content: center;
   position: relative;
-  flex-basis: auto;
+  flex-basis: 16%;
 }
 
 .step__title {
@@ -364,6 +362,7 @@
 
 .footer__column_content_social {
   margin-right: 80px;
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -395,7 +394,7 @@
   margin-bottom: 16px;
   display: flex;
   align-items: center;
-  column-gap: normal;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
