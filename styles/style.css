@@ -344,7 +344,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  padding: 1px;
+  height: 400px;
   color: #ffffff;
 }
 
