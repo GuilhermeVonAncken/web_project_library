@@ -306,7 +306,7 @@
   margin: 0 auto;
   text-align: center;
   font-size: 44px;
-  font-weight: bold;
+  font-weight: 500;
   line-height: 52px;
 }
 
@@ -320,9 +320,8 @@
 }
 
 .step {
-  width: 220px;
   position: relative;
-  flex-basis: 16%;
+  flex-basis: 220px;
 }
 
 .step__title {
@@ -345,7 +344,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  padding: 50px 0;
+  padding: 1px;
   color: #ffffff;
 }
 
@@ -357,11 +356,9 @@
 
 .footer__column_content_hours {
   margin-left: auto;
-  margin-right: 80px;
 }
 
 .footer__column_content_social {
-  margin-right: 80px;
   margin-left: 80px;
 }
 
